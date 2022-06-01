@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Artur Felipe    
+-Profissão: Produtor Cultural
+-Cidade: Monsenhor Tabosa/CE
+-O que faz nas horas vaga: Voo Livre
+-Feedback sobre o curso Qualidade de Software: ótimo    
+-Feedback sobre a plataforma de estudo da EBAC: ótimo
+
+
+
+
